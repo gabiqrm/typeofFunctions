@@ -1,11 +1,9 @@
 # Estudo de Variáveis e Funções JS 📖🖍
 
----
-<div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/EstudyTypeofFunctions)](https://github.com/gabiqrm/EstudyTypeofFunctions)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/EstudyTypeofFunctions)](https://github.com/gabiqrm/EstudyTypeofFunctions/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/EstudyTypeofFunctions)](https://github.com/gabiqrm/EstudyTypeofFunctions/)
 
-</div>
+
 
 ---
 ## 📋 Sobre:
