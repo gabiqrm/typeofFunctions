@@ -1,6 +1,6 @@
 'use strict'; //Acusar mais erros
 
-//  var x let
+//  var x let x const
 
 //var tem escopo abrangente
 //let tem escopo reduzido
