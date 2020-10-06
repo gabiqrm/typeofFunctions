@@ -39,7 +39,9 @@ As funções anônimas geralmente são argumentos passados para funções de ord
 **Arrow function:**
 Uma expressão arrow function possui uma sintaxe mais curta quando comparada a uma expressão de função (function expression);<br />
 Não tem seu próprio this, arguments, super ou new.target. <br />
-Estas expressões de funções são melhor aplicadas para funções que não sejam métodos, e elas não podem ser usadas como construtoras (constructors).
+Estas expressões de funções são melhor aplicadas para funções que não sejam métodos, e elas não podem ser usadas como construtoras (constructors). <br />
+
+/
 
 **Template Literals:**
 O ES6 introduziu o conhecido Template String ou Template Literals.<br />
