@@ -14,7 +14,7 @@ Estudo de tipos de funções e tipos de variáveis que foi realizado durante a a
 
 **Vamos aprender?**
 
-**Tipos de Variáveis**:
+**Tipos de Variáveis:**
 Declarações de variáveis, onde quer que elas ocorram, são processadas antes que qualquer outro código seja executado. <br />
 O escopo de uma variável declarada com  **var** é seu contexto atual em execução, o qual é a função a qual pertence ou, para variáveis declaradas fora de qualquer função, o escopo é o global. <br />
 
@@ -25,6 +25,27 @@ Isso não significa que o valor é imutável, apenas que a variável constante n
 
 **Let:** let permite que você declare variáveis limitando seu escopo no bloco, instrução, ou em uma expressão na qual ela é usada. <br />
 Isso é inverso da keyword var, que define uma variável globalmente ou no escopo inteiro de uma função, independentemente do escopo de bloco.<br />
+
+/
+
+**Tipos de Funções:**
+
+Funções são blocos de construção fundamentais em JavaScript. <br />
+Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor. <br />
+Para usar uma função, você deve defini-la em algum lugar no escopo do qual você quiser chamá-la.
+
+**Função Anônima:**
+uma função anônima é uma definição de função que não está vinculada a um identificador, ou seja, uma função sem nome. <br />
+As funções anônimas geralmente são argumentos passados para funções de ordem superior ou usadas para construir o resultado de uma função de ordem superior que precisa retornar uma função.
+
+**Arrow function:**
+Uma expressão arrow function possui uma sintaxe mais curta quando comparada a uma expressão de função (function expression);<br />
+Não tem seu próprio this, arguments, super ou new.target. <br />
+Estas expressões de funções são melhor aplicadas para funções que não sejam métodos, e elas não podem ser usadas como construtoras (constructors).
+
+**Template Literals:**
+O ES6 introduziu o conhecido Template String ou Template Literals.<br />
+Onde conseguimos criar cadeias de caracteres, utilizando outra forma de interpolação que não fosse o sinal de +.
 
 ---
 ## ⚙️ Tecnologias:
