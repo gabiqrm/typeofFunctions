@@ -12,16 +12,18 @@
 
 Estudo de tipos de funções e tipos de variáveis que foi realizado durante a aula do professor Rafael Gomide, no Bootcamp Desenvolvimento Fullstack disponibilizado pelo IGTI. 
 
-Tipos de Variáveis:
+**Vamos aprender?**
+
+**Tipos de Variáveis**:
 Declarações de variáveis, onde quer que elas ocorram, são processadas antes que qualquer outro código seja executado. <br />
-O escopo de uma variável declarada com  *var* é seu contexto atual em execução, o qual é a função a qual pertence ou, para variáveis declaradas fora de qualquer função, o escopo é o global. <br />
+O escopo de uma variável declarada com  **var** é seu contexto atual em execução, o qual é a função a qual pertence ou, para variáveis declaradas fora de qualquer função, o escopo é o global. <br />
 
 Atribuir um valor a uma variável não declarada anteriormente implica em criar uma variável global (ela se torna uma propriedade do objeto global) quando a atribuição é executada.
 
-*Const:* A  declaração const cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura. <br />
+**Const:** A  declaração const cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura. <br />
 Isso não significa que o valor é imutável, apenas que a variável constante não pode ser alterada ou retribuída.<br />
 
-*Let:* let permite que você declare variáveis limitando seu escopo no bloco, instrução, ou em uma expressão na qual ela é usada. <br />
+**Let:** let permite que você declare variáveis limitando seu escopo no bloco, instrução, ou em uma expressão na qual ela é usada. <br />
 Isso é inverso da keyword var, que define uma variável globalmente ou no escopo inteiro de uma função, independentemente do escopo de bloco.<br />
 
 ---
