@@ -47,6 +47,9 @@ Estas expressões de funções são melhor aplicadas para funções que não sej
 O ES6 introduziu o conhecido Template String ou Template Literals.<br />
 Onde conseguimos criar cadeias de caracteres, utilizando outra forma de interpolação que não fosse o sinal de +.
 
+Para se aprofundar mais:
+[Clique Aqui!](https://medium.com/reactbrasil/como-o-javascript-funciona-entendendo-as-fun%C3%A7%C3%B5es-e-suas-formas-de-uso-eb387c7fa138)
+
 ---
 ## ⚙️ Tecnologias:
 
