@@ -8,7 +8,7 @@
 ---
 ## 📋 Sobre:
 
-Estudo de tipos de funções e tipos de variáveis que foi realizado durante a aula do professor Rafael Gomide, no Bootcamp Desenvolvimento Fullstack disponibilizado pelo IGTI. 
+Estudo de Funções e tipos de variáveis que foi realizado durante a aula do professor Rafael Gomide, no Bootcamp de Desenvolvedor FullStack disponibilizado pelo IGTI. 
 
 **Vamos aprender?**
 
